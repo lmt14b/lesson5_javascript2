@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(February 24, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Landon Thaler)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Create a calculator to determine the income tax of 4 different types of households: Single, Married Together, Married Separately, Head of Household.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://lmt14b.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Learned how to use If Else & Comparison Operators
+2. Learned functions in JavaScript and DRY (Don't Repeat Yourself)
+3. Learned that you can iterate a JavaScript array with loops, making it easy to run actions on all of the items in the array.
